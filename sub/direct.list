@@ -1,0 +1,15 @@
+
+DOMAIN,instant.arubanetworks.com
+
+DOMAIN-SUFFIX,beifuya.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,2rich.me
+DOMAIN-SUFFIX,2rich.org
+DOMAIN-SUFFIX,techhex.com
+
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,hypothes
+DOMAIN-KEYWORD,herskin
+
+IP-CIDR,101.32.208.6/32,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
