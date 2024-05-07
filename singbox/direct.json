@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+          "beifuya.com"
+          
+        ]
+      },
+      {
+        "domain_keyword": [
+            "synology",
+            "hypothes",
+            "herskin"
+        ]
+      },
+      {
+        "domain_suffix": [
+          ".beifuya.com",
+          ".cloudflare.com",
+          ".herskin.vip",
+          ".2rich.me",
+          ".2rich.org",
+          ".ubuntu.com",
+          ".techhex.com"
+        ]
+      },
+      {
+        "ip_cidr": [
+          "101.32.208.6/32"
+        ]
+      }
+    ]
+  }
