@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,2rich.me
 DOMAIN-SUFFIX,2rich.org
 DOMAIN-SUFFIX,techhex.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,pages.dev
 
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,hypothes
