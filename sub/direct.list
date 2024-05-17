@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,2rich.org
 DOMAIN-SUFFIX,techhex.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,hypothes
