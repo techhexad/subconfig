@@ -3,6 +3,8 @@ DOMAIN,instant.arubanetworks.com
 
 DOMAIN-SUFFIX,beifuya.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,ollama.ai
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN-SUFFIX,2rich.me
 DOMAIN-SUFFIX,2rich.org
 DOMAIN-SUFFIX,techhex.com
