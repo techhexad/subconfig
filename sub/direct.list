@@ -17,3 +17,4 @@ DOMAIN-KEYWORD,herskin
 
 IP-CIDR,101.32.208.6/32,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
+DOMAIN-SUFFIX,cloudflare.com
